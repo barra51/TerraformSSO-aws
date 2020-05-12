@@ -1,3 +1,3 @@
 # TerraformSSO-aws
 
-This repo is a automation work from https://github.com/linaro-its/aws2-wrap. Simple creates a shell script to automate the process.
+This repo is an automation work from https://github.com/linaro-its/aws2-wrap. Creates a shell script to automate the process.
